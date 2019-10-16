@@ -1,0 +1,22 @@
+<html>
+<head><title>Lab2a</title></head>
+<body>
+<h1>Checking USN number</h1>
+<hr/>
+<script type="text/javascript">
+function func(usn)
+{ 	var reg=/[0-9]{4}[/][0-9][0-9]/;
+			if(!usn.value.match(reg)||usn.value.length>7)
+			{	alert("Invalid,Enter valid USN");
+				return false;
+			}
+			else
+				alert("its valid");
+}
+</script>
+<form>
+Enter USN <input type="text" name="usn" size="30">
+<input type="button" value="check" onclick="func(usn)">
+</form>
+</body>
+</html>

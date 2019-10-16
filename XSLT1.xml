@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="XSLT1.xsl"?>
+<STUDENT>
+	<DETAILS>
+		<USN>1OX10MCA65</USN><br/>
+		<NAME>ABHINAV</NAME><br/>
+		<COLLEGE>THE OXFORD</COLLEGE><br/>
+		<BRANCH>MCA</BRANCH><br/>
+		<YEAROFJOINING>2010</YEAROFJOINING><br/>
+		<EMAIL-ID>abhinav24@gmail.com</EMAIL-ID><br/>
+	</DETAILS>
+	<DETAILS>
+		<USN>1OX10MCA45</USN><br/>
+		<NAME>ADITI</NAME><br/>
+		<COLLEGE>THE OXFORD</COLLEGE><br/>
+		<BRANCH>MCA</BRANCH><br/>
+		<YEAROFJOINING>2010</YEAROFJOINING><br/>
+		<EMAIL-ID>aditisharma@gmail.com</EMAIL-ID><br/>
+	</DETAILS>
+	<DETAILS>
+		<USN>1OX10MCA82</USN><br/>
+		<NAME>RAJ</NAME><br/>
+		<COLLEGE>THE OXFORD</COLLEGE><br/>
+		<BRANCH>MCA</BRANCH><br/>
+		<YEAROFJOINING>2010</YEAROFJOINING><br/>
+		<EMAIL-ID>rajmewara@gmail.com</EMAIL-ID><br/>
+	</DETAILS>
+</STUDENT>

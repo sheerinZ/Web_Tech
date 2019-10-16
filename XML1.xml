@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/css" href="XML1.css"?>
+<STUDENT>
+	<DETAILS>
+		<title>STUDENT INFORMATION</title>
+	</DETAILS>
+	<DETAILS>
+		<USN><a>USN: </a>1OX10MCA65</USN>
+		<NAME><a>NAME: </a>ABHINAV</NAME>
+		<COLLEGE><a>COLLEGE: </a>THE OXFORD</COLLEGE>
+		<BRANCH><a>BRANCH: </a>MCA</BRANCH>
+		<YEAROFJOINING><a>YEAR OF JOINING: </a>2010</YEAROFJOINING>
+		<EMAIL-ID><a>EMAIL-ID: </a>abhinav24@gmail.com</EMAIL-ID>
+	</DETAILS>
+	<DETAILS>
+		<USN><a>USN: </a>1OX10MCA45</USN>
+		<NAME><a>NAME: </a>ADITI</NAME>
+		<COLLEGE><a>COLLEGE: </a>THE OXFORD</COLLEGE>
+		<BRANCH><a>BRANCH: </a>MCA</BRANCH>
+		<YEAROFJOINING><a>YEAR OF JOINING: </a>2010</YEAROFJOINING>
+		<EMAIL-ID><a>EMAIL-ID: </a>aditisharma@gmail.com</EMAIL-ID>
+	</DETAILS>
+	<DETAILS>
+		<USN><a>USN: </a>1OX10MCA82</USN>
+		<NAME><a>NAME: </a>RAJ</NAME>
+		<COLLEGE><a>COLLEGE: </a>THE OXFORD</COLLEGE>
+		<BRANCH><a>BRANCH: </a>MCA</BRANCH>
+		<YEAROFJOINING><a>YEAR OF JOINING: </a>2010</YEAROFJOINING>
+		<EMAIL-ID><a>EMAIL-ID: </a>rajmewara@gmail.com</EMAIL-ID>
+	</DETAILS>
+</STUDENT>

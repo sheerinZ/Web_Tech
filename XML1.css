@@ -1,0 +1,80 @@
+DETAILS
+{
+	display:block;
+	color:black;
+	font-size:20pt;
+	font-family:"Times New Roman";
+	font-weight:bold;
+	border-style:solid;
+}
+title
+{
+	color:orange;
+	font-size:25pt;
+	font-family:"Times New Roman";
+	text-decoration:underline;
+	text-ident:2.5in;
+	
+}
+a
+{
+	color:green;
+	font-size:20pt;
+	font-family:"Times New Roman";
+	text-decoration:underline;
+	text-ident:2.5in;
+}
+USN
+{
+	display:block;
+	color:blue;
+	font-size:20pt;
+	font-family:"Times New Roman";
+	text-decoration:underline;
+	text-ident:2.5in;
+}
+NAME
+{
+	display:block;
+	color:red;
+	font-size:20pt;
+	font-family:"Times New Roman";
+	text-decoration:underline;
+	text-ident:2.5in;
+}
+COLLEGE
+{
+	display:block;
+	color:purple;
+	font-size:20pt;
+	font-family:"Times New Roman";
+	text-decoration:underline;
+	text-ident:2.5in;
+}
+BRANCH
+{
+	display:block;
+	color:black;
+	font-size:20pt;
+	font-family:"Times New Roman";
+	text-decoration:underline;
+	text-ident:2.5in;
+}
+YEAROFJOINING
+{
+	display:block;
+	color:red;
+	font-size:20pt;
+	font-family:"Times New Roman";
+	text-decoration:underline;
+	text-ident:2.5in;
+}
+EMAIL-ID
+{
+	display:block;
+	color:blue;
+	font-size:20pt;
+	font-family:"Times New Roman";
+	text-decoration:underline;
+	text-ident:2.5in;
+}

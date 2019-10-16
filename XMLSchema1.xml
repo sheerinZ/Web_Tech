@@ -1,0 +1,14 @@
+<?xml version="1.0"?>  
+<xp:schema xmlns:xp="http://www.abc.org/2001/XMLSchema"  >  
+  
+<xp:element name="employee">  
+  <xp:complexType>  
+    <xp:sequence>  
+      <xp:element name="firstname" type="xp:string"/>  
+      <xp:element name="lastname" type="xp:string"/>  
+      <xp:element name="email" type="xp:string"/>  
+    </xp:sequence>  
+  </xp:complexType>  
+</xp:element>  
+  
+</xp:schema>  
