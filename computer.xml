@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<computer:laptop  xmlns:computer="http://www.deitel.com/computer" manufacturer="IBM">
+<processor model ="centrio">Intel</processor>
+<monitor> 17</monitor>
+<CPUspeed>2.4</CPUspeed>
+<RAM> 256</RAM>
+</computer:laptop>

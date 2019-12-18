@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<schema xmlns="http://www.w3.org/2001/XMLschema" xmlns:computer ="http://www.deitel.com/computer" targetnamespace="http://www.deitel.com/computer">
+<simpletype name="gigahertz">
+<restriction base="decimal">
+<mininclusive value="2.1"/>
+</restriction>
+</simpletype>
+<complextype name ="cpu">
+<simplecontent>
+<restriction base ="string">
+<attribute name ="model" type="string"/>
+</restriction>
+</simplecontent>
+</complextype>
+<complextype name ="portable">
+<all>
+<element name ="processor" type="computer:CPU"/>
+<element name="monitor" type="int/>
+<element name ="CPUspeed" type="computer:gigahertz"/>
+<element name ="RAM" type ="int"/>
+</all>
+<attribute name ="manufacture" type="string"/>
+</complextype>
+<element name ="laptop" type="computer:portable"/>
+</schema>

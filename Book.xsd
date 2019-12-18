@@ -1,0 +1,13 @@
+<schema xmlns="http://www.w3.org/2001/XMLschema" xmlns:deitel="http://www.deitel.com/booklist" targetnamespace="http://www.deitel.com/booklist">
+<element name ="books" type ="deitel:bookstype"/>
+<complex type name="bookstype">
+<sequence>
+<element name="book" type="deitel:singlebooktype" minoccurs ="1" maxoccurs  ="unbounded"/>
+</sequence>
+</complextype>
+<complextype name="singlebooktype">
+<sequence>
+<element name="title" type="string"/>
+</sequence>
+</complextype>
+</schema>
